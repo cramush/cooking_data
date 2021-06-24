@@ -1,5 +1,7 @@
 # Project exclude paths
 venv
 .idea
-data.json
 secrets.yaml
+data
+db
+data.sql
